@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <polygon fill="#0a1628" stroke="#c89b3c" stroke-width="3" points="32,4 58,19 58,45 32,60 6,45 6,19"/>
+  <text x="32" y="40" text-anchor="middle" fill="#c89b3c" font-size="18" font-family="serif" font-weight="700">Y</text>
+</svg>
